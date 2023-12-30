@@ -1,2 +1,3 @@
 # Psytrics-R-shiny-GUI-for-psychometric-analysis
-Psytrics is an R Shiny application for psychometric analysis. 
+Psytrics is an R Shiny application for psychometric analysis. Psytrics is designed for regular and routine psychometric analyses. Psytrics facilitates a wider range of analyses, including detail validity and reliability analysis, estimations, and psychometric modeling.  Moreover, Psytrics is aligned with the general outline of psychometric theoretical contents, so that learners can easily connect theories with applications in Psytrics. The application was developed under the supervision of Dr. Wenchao Ma, Associate Professor, The University of Alabama. 
+
